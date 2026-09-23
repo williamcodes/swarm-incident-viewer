@@ -1,4 +1,59 @@
 {
+  "2026-09-23T20-36-07-00-00_grade-reports_7qYhN7PFeQREWQYNTf5NiF.eval": {
+    "eval_id": "MiK9TRUbLxsdJpWutBELUA",
+    "run_id": "jkfCAgpyX84RrSYYtMwNN3",
+    "task": "messageboard_audit_bench/grade_reports",
+    "task_id": "7qYhN7PFeQREWQYNTf5NiF",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "mockllm/model",
+    "model_roles": {
+      "grader": "anthropic/claude-fable-5-1"
+    },
+    "started_at": "2026-09-23T20:36:07+00:00",
+    "completed_at": "2026-09-23T20:36:29+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.6,
+      "params": {}
+    }
+  },
+  "2026-09-23T20-30-52-00-00_grade-reports_S6576pSxqkriipWTbjvCCi.eval": {
+    "eval_id": "nCGYMPUg9qwEu9eUPkw2Zy",
+    "run_id": "LBqEJkojzKkVvFezDAEzZB",
+    "task": "messageboard_audit_bench/grade_reports",
+    "task_id": "S6576pSxqkriipWTbjvCCi",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "mockllm/model",
+    "model_roles": {
+      "grader": "anthropic/claude-fable-5-1"
+    },
+    "started_at": "2026-09-23T20:30:52+00:00",
+    "completed_at": "2026-09-23T20:36:00+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.532,
+      "params": {}
+    }
+  },
+  "2026-09-23T20-19-01-00-00_messageboard-audit-bench_9v6kiZA4vmwuSXW3BvvSpZ.eval": {
+    "eval_id": "ghrtscDYXTpnFcYJvAekUv",
+    "run_id": "YiCMhSXvxtUmBuYUNxhBeV",
+    "task": "messageboard_audit_bench/messageboard_audit_bench",
+    "task_id": "9v6kiZA4vmwuSXW3BvvSpZ",
+    "task_version": "8-A",
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "mockllm/model",
+    "started_at": "2026-09-23T20:19:01+00:00",
+    "completed_at": "2026-09-23T20:29:26+00:00"
+  },
   "2026-09-23T20-07-28-00-00_grade-reports_agXZQ9ZKtCL4Zdwq9yu86X.eval": {
     "eval_id": "hTuE52S4Hrng2TyZ2TCpRU",
     "run_id": "bFmeDxDULFbu4tU7gNTaZn",

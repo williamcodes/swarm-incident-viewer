@@ -1,0 +1,24 @@
+{
+ "weights": {
+  "coverage": 0.7,
+  "tldrh": 0.3
+ },
+ "judges": [
+  "claude-fable-5-1"
+ ],
+ "reports": [
+  {
+   "report": "20260923T201912Z_codex_gpt_6_astra_r1_blind_9cf25ff44e97",
+   "coverage_raw": 0.5316,
+   "coverage_strict": 0.3632,
+   "fraction_above_half": 0.6053,
+   "tldrh": 0.6,
+   "headline": 0.4342,
+   "judge_v2": "claude-fable-5-1",
+   "judge_tldrh": "claude-fable-5-1"
+  }
+ ],
+ "mean_headline": 0.4342,
+ "mean_coverage_strict": 0.3632,
+ "warnings": []
+}
