@@ -1,4 +1,46 @@
 {
+  "2026-09-23T20-07-28-00-00_grade-reports_agXZQ9ZKtCL4Zdwq9yu86X.eval": {
+    "eval_id": "hTuE52S4Hrng2TyZ2TCpRU",
+    "run_id": "bFmeDxDULFbu4tU7gNTaZn",
+    "task": "messageboard_audit_bench/grade_reports",
+    "task_id": "agXZQ9ZKtCL4Zdwq9yu86X",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "mockllm/model",
+    "model_roles": {
+      "grader": "anthropic/claude-fable-5-1"
+    },
+    "started_at": "2026-09-23T20:07:28+00:00",
+    "completed_at": "2026-09-23T20:07:53+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.6,
+      "params": {}
+    }
+  },
+  "2026-09-23T20-02-18-00-00_grade-reports_hVbSLnvz7a5wF2spvsQo8Y.eval": {
+    "eval_id": "hs3MnvosdujoF97WweYPA5",
+    "run_id": "FAQxvxvux3eoWya2PDw7Bw",
+    "task": "messageboard_audit_bench/grade_reports",
+    "task_id": "hVbSLnvz7a5wF2spvsQo8Y",
+    "task_version": 0,
+    "version": 2,
+    "status": "success",
+    "invalidated": false,
+    "model": "mockllm/model",
+    "model_roles": {
+      "grader": "anthropic/claude-fable-5-1"
+    },
+    "started_at": "2026-09-23T20:02:18+00:00",
+    "completed_at": "2026-09-23T20:07:24+00:00",
+    "primary_metric": {
+      "name": "mean",
+      "value": 0.487,
+      "params": {}
+    }
+  },
   "2026-09-23T19-06-19-00-00_messageboard-audit-bench_g2bhBvb38FmTHQ8LgYdayK.eval": {
     "eval_id": "d7Lc94hUr97hXyXHmnH9pT",
     "run_id": "ZsK2qrjyiSi57Y7c7Z3QPp",
